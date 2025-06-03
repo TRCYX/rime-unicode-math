@@ -1,6 +1,6 @@
 ---
 name: unicode_math_semi
-version: "0.1.4"
+version: "0.1.5"
 sort: original
 ...
 
@@ -1828,6 +1828,8 @@ sort: original
 𝕩	;bbx
 𝕪	;bby
 𝕫	;bbz
+⦂	;bb:
+⨾	;bb;
 ℝ≥0	;Rge0
 ℝ≥0	;R>=0
 ℝ≥0	;nnreal
@@ -1862,3 +1864,31 @@ sort: original
 ⊪	;Vvdash
 ⧾	;tiny
 ⧿	;miny
+ᴀ	;sca
+ʙ	;scb
+ᴄ	;scc
+ᴅ	;scd
+ᴇ	;sce
+ꜰ	;scf
+ɢ	;scg
+ʜ	;sch
+ɪ	;sci
+ᴊ	;scj
+ᴋ	;sck
+ʟ	;scl
+ᴍ	;scm
+ɴ	;scn
+ᴏ	;sco
+ᴘ	;scp
+ꞯ	;scq
+ʀ	;scr
+ꜱ	;scs
+ᴛ	;sct
+ᴜ	;scu
+ᴠ	;scv
+ᴡ	;scw
+ʏ	;scy
+ᴢ	;scz
+⦂	;typecolon
+⨾	;relcomp
+⨟	;schcomp

@@ -4,7 +4,7 @@
 schema:
   schema_id: unicode_math_at
   name: Unicode 数学符号（@）
-  version: "0.1.4"
+  version: "0.1.5"
   author:
     - 余泰来
   description: |
