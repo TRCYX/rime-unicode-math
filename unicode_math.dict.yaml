@@ -822,7 +822,6 @@ sort: original
 ∪	\un
 ⊎	\u+
 ⊍	\u.
-↨	\ud-|
 ⌜	\ulcorner
 ⌝	\urcorner
 ⊎	\uplus
@@ -1603,6 +1602,7 @@ sort: original
 
 ↕	\ud-
 ⇕	\ud=
+↨	\ud-|
 ⥌	\ud\\
 ⥍	\ud//
 ⥏	\ud\/
@@ -3539,3 +3539,5 @@ sort: original
 ᴡ	\scw
 ʏ	\scy
 ᴢ	\scz
+
+# Custom

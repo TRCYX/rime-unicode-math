@@ -813,7 +813,6 @@
 ∪	un
 ⊎	u+
 ⊍	u.
-↨	ud-|
 ⌜	ulcorner
 ⌝	urcorner
 ⊎	uplus
@@ -1594,6 +1593,7 @@
 
 ↕	ud-
 ⇕	ud=
+↨	ud-|
 ⥌	ud\\
 ⥍	ud//
 ⥏	ud\/
@@ -3538,3 +3538,5 @@
 ᴡ	scw
 ʏ	scy
 ᴢ	scz
+
+# Custom
